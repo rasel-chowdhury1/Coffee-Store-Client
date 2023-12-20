@@ -1,0 +1,21 @@
+.AddCoffee{
+    width: 700px;
+    height: 630px;
+    border: 1px solid gray;
+    background-color: #F4F3F0;
+}
+.Coffee{
+    padding: 30px;
+}
+.Coffee-Content{
+    text-align: center;
+}
+
+.Coffee p{
+    margin: 20px 0;
+}
+
+form{
+    width: 1096px;
+    height: 528px;
+}
