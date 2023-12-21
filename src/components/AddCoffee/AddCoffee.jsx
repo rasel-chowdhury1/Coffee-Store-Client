@@ -42,6 +42,7 @@ const AddCoffee = () => {
         
         event.target.reset();
     }
+    
     return (
         <div className='AddCoffee'>
             <div className='Coffee'>
